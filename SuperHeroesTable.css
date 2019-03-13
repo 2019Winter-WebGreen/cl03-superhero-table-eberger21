@@ -1,0 +1,25 @@
+/*
+* Erin Berger
+* Due Date
+* SuperHero Table
+*/
+
+/* The universal selector */
+
+* . {
+
+}
+
+/* Body attributes here */
+
+body {
+    
+    background-color: deeppink
+}
+    table, td, th {border: 1px solid blue; }
+    
+    table {border-collapse: collapse; }
+    thead { background-color: lime; }
+    tbody { background-color: blanchedalmond; }
+    tfoot { background-color: deepskyblue; }
+    
